@@ -10,7 +10,7 @@ Customers who book a flight with BA will experience many interaction points with
 
 This first task is focused on scraping and collecting customer feedback and reviewing data from a third-party source and analysing this data to present any insights you may uncover.
 
-## ** Here is your task**
+## **Here is your task**
 
 #### Scrape data from the web
 The first thing to do will be to scrape review data from the web. For this, you should use a website called Skytrax.
